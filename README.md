@@ -8,7 +8,7 @@
 
 ### Screenshot
 
-![Screenshot](/Screen Shot 2022-09-24 at 14.00.00 (Small).png)
+![Screenshot](https://github.com/gkhuskivadze/Order-Summary-Card-Markup/blob/main/Screen%20Shot%202022-09-24%20at%2014.00.00%20(Small).png)
 
 ### Links
 
